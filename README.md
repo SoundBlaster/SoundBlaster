@@ -2,7 +2,7 @@
 
 iOS developer at since 2011. Now I’m into **agentic workflows**, **specification-driven development**, and building tooling that makes codebases more **structured, verifiable, and AI-friendly**.
 
-## 🤝 What I care about
+## What I care about
 - **Specs as first-class artifacts** (PRDs, workplans, executable constraints)
 - **Agent-friendly repos** (clear boundaries, tooling, and automation)
 - **Verification over vibes** (tests, gates, diagnostics, metrics)
@@ -14,11 +14,9 @@ iOS developer at since 2011. Now I’m into **agentic workflows**, **specificati
 - [LinkedIn](https://www.linkedin.com/in/egormerkushev)
 - X.com - [https://x.com/egormerkushev](https://x.com/egormerkushev)
 
----
+## My Projects
 
-Here are a few projects I’m actively working on (and excited to share):
-
-## 🚀 Open Source Projects
+Here are a few projects I’m actively working on (and excited to share).
 
 1) [0AL — Zero-trust Agents Layer](https://github.com/0al-spec)
 A long-term effort to bring **zero-trust principles** to agentic systems: identity, boundaries, and safe execution.
