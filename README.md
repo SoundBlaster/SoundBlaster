@@ -10,9 +10,7 @@ iOS developer at since 2011. Now I’m into **agentic workflows**, **specificati
 
 ## Social
 
-- VK.COM - [https://vk.com/objc](https://vk.com/objc)
-- [LinkedIn](https://www.linkedin.com/in/egormerkushev)
-- X.com - [https://x.com/egormerkushev](https://x.com/egormerkushev)
+[vk.com/objc](https://vk.com/objc) | [LinkedIn](https://www.linkedin.com/in/egormerkushev) | [x.com/egormerkushev](https://x.com/egormerkushev)
 
 ## My Projects
 
