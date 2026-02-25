@@ -14,15 +14,13 @@ iOS developer at since 2011. Now I’m into **agentic workflows**, **specificati
 - [LinkedIn](https://www.linkedin.com/in/egormerkushev)
 - X.com - [https://x.com/egormerkushev](https://x.com/egormerkushev)
 
-If any of this resonates — feel free to open an issue, start a discussion, or just say hi 🙂
-
 ---
 
 Here are a few projects I’m actively working on (and excited to share):
 
 ## 🚀 Open Source Projects
 
-### 1) 0AL — Zero-trust Agents Layer
+1) [0AL — Zero-trust Agents Layer](https://github.com/0al-spec)
 A long-term effort to bring **zero-trust principles** to agentic systems: identity, boundaries, and safe execution.
 
 - **0AL org:** https://github.com/0al-spec
@@ -35,67 +33,27 @@ A long-term effort to bring **zero-trust principles** to agentic systems: identi
   - Source: https://github.com/0al-spec/Metrics  
   - **SIB (Specification–Implementation Balance) paper (PDF):** https://github.com/0al-spec/Metrics/blob/main/SIB/metrics.pdf  
 
----
-
-### 2) XcodeMCPWrapper
+2) [XcodeMCPWrapper](https://github.com/SoundBlaster/XcodeMCPWrapper)
 An **MCP proxy** that makes **Xcode 26.3’s MCP** compatible with **Cursor** and other strict MCP-spec-compliant clients.
 
-- Source: https://github.com/SoundBlaster/XcodeMCPWrapper  
-- Docs: https://soundblaster.github.io/XcodeMCPWrapper  
-
----
-
-### 3) Flow — Agentic Workflow
+3) [Flow — Agentic Workflow](https://github.com/SoundBlaster/Flow)
 A practical framework for building **repeatable agent-driven contribution workflows** with clear steps, inputs/outputs, and quality gates.
 
-- Source: https://github.com/SoundBlaster/Flow  
-
----
-
-### 4) SpecificationCore
+4) [SpecificationCore](https://github.com/SoundBlaster/SpecificationCore)
 A Swift framework implementing the **Specification Pattern** with modern Swift: **property wrappers**, **macros**, and **async/await**.
 
-- Source: https://github.com/SoundBlaster/SpecificationCore  
-- Docs: https://soundblaster.github.io/SpecificationCore/documentation/specificationcore  
-
----
-
-### 5) SpecificationKit
+5) [SpecificationKit](https://github.com/SoundBlaster/SpecificationKit)
 Platform-focused integrations and product-level tooling built around **SpecificationCore**.
 
-- Source: https://github.com/SoundBlaster/SpecificationKit  
-- Docs: https://soundblaster.github.io/SpecificationKit/documentation/specificationkit  
-
----
-
-### 6) SpecificationConfig
+6) [SpecificationConfig](https://github.com/SoundBlaster/SpecificationConfig)
 **Specifications over Swift Configuration** — validation and composition over config models.
 
-- Source: https://github.com/SoundBlaster/SpecificationConfig  
-- Docs: https://soundblaster.github.io/SpecificationConfig/documentation/specificationconfig  
-
----
-
-### 7) NestedSwiftUIA11y
-Execution-ready, dependency-aware SPM package that brings **nested accessibility identifiers** to **SwiftUI**.
-
-- Source: https://github.com/SoundBlaster/NestedA11yIDs  
-
----
-
-### 8) ISOInspector
+8) [ISOInspector](https://github.com/SoundBlaster/ISOInspector)
 A complex monorepo: cross-platform **ISO BMFF parser** + **SwiftUI app** (MP4 boxes, tracks, atoms — the fun stuff).
 
-- Source: https://github.com/SoundBlaster/ISOInspector  
-- Docs: https://soundblaster.github.io/ISOInspector  
-
----
-
-### 9) docc2context
+9) [docc2context](https://github.com/SoundBlaster/docc2context)
 A **DocC → Markdown** converter for **LLM-readable documentation** (plus a web service WIP).
 
-- Source: https://github.com/SoundBlaster/docc2context  
-- Docs: https://soundblaster.github.io/docc2context/documentation/docc2contextcore  
-- Web service (WIP): https://github.com/SoundBlaster/docc2context-service  
-
 ---
+
+If any of this resonates — feel free to open an issue, start a discussion, or just say hi 🙂
