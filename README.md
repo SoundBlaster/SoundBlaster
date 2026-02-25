@@ -21,15 +21,10 @@ Here are a few projects I’m actively working on (and excited to share).
 1) [0AL — Zero-trust Agents Layer](https://github.com/0al-spec)
 A long-term effort to bring **zero-trust principles** to agentic systems: identity, boundaries, and safe execution.
 
-- **0AL org:** https://github.com/0al-spec
 - **Agent Passport:** https://github.com/0al-spec/agent-passport  
 - **Hypercode:** https://github.com/0al-spec/Hypercode  
-- **Hyperprompt**
-  - Source: https://github.com/0al-spec/Hyperprompt  
-  - Docs: https://0al-spec.github.io/Hyperprompt/documentation/cli  
-- **AI/LLM Metrics**
-  - Source: https://github.com/0al-spec/Metrics  
-  - **SIB (Specification–Implementation Balance) paper (PDF):** https://github.com/0al-spec/Metrics/blob/main/SIB/metrics.pdf  
+- **Hyperprompt** https://github.com/0al-spec/Hyperprompt
+- **Specification-Implementation Balance Metrics** https://github.com/0al-spec/Metrics
 
 2) [XcodeMCPWrapper](https://github.com/SoundBlaster/XcodeMCPWrapper)
 An **MCP proxy** that makes **Xcode 26.3’s MCP** compatible with **Cursor** and other strict MCP-spec-compliant clients.
